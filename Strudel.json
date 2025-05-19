@@ -3,9 +3,5 @@
   "bangzi": [
     "Bangzi11.wav"
   ],
-  "daluo": [
-    "Chinese%20Percussion%20-%20Daluo1_m1.wav",
-    "Chinese%20Percussion%20-%20Daluo21.wav",
-    "Chinese%20Percussion%20-%20Daluo3_m1.wav"
-  ]
+  "daluo": "Chinese%20Percussion%20-%20Daluo1_m1.wav"
 }
