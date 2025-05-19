@@ -4,22 +4,22 @@
     "Bangzi11.wav"
   ],
   "daluo": [
-    "Daluo1_m1.wav",
-    "Daluo21.wav",
-    "Daluo3_m1.wav"
+    "Chinese Percussion - Daluo1_m1.wav",
+    "Chinese Percussion - Daluo21.wav",
+    "Chinese Percussion - Daluo3_m1.wav"
   ],
   "xiaoluo": [
-    "Xiaoluo1.wav",
-    "Xiaoluo2.wav"
+    "Chinese Percussion - Xiaoluo1.wav",
+    "Chinese Percussion - xiaoluo2.wav"
   ],
   "xiaotanggu": [
-    "Xiaotanggu.wav"
+    "Chinese Percussion - Xiaotanggu.wav"
   ],
   "xiaoba": [
-    "xiaoba21.wav",
-    "xiaoba_m1.wav"
+    "Chinese Percussion - xiaoba21.wav",
+    "Chinese Percussion - xiaoba_m1.wav"
   ],
-  "bandivb": [
+  "bass": [
     "DSK Music © 2008 - BANDIVB B4P.wav",
     "DSK Music © 2008 - BANDIVB B5P.wav",
     "DSK Music © 2008 - BANDIVB E6P.wav",
@@ -35,10 +35,10 @@
     "ERHU - ERHUVB G4MF.wav"
   ],
   "guzhen": [
+    "GUZHEN - GUZHEN F5.wav",
     "GUZHEN - GUZHEN A#3.wav",
     "GUZHEN - GUZHEN C#5.wav",
     "GUZHEN - GUZHEN D#4.wav",
-    "GUZHEN - GUZHEN F5.wav",
     "GUZHEN - GUZHEN G#4.wav"
   ],
   "luan": [
@@ -55,15 +55,15 @@
     "PIPA - PIPA A3 P.wav",
     "PIPA - PIPA B4 P.wav",
     "PIPA - PIPA B5 P.wav",
-    "PIPA - PIPA C#4 P.wav",
     "PIPA - PIPA D6 P.wav",
     "PIPA - PIPA E4 P.wav",
     "PIPA - PIPA E5 P.wav",
     "PIPA - PIPA G4 P.wav",
     "PIPA - PIPA G5 P.wav",
-    "PIPA - PIPA G6 P.wav"
+    "PIPA - PIPA G6 P.wav",
+    "PIPA - PIPA C#4 P.wav"
   ],
-  "pipatrem": [
+  "pipa_trem": [
     "PIPA TREM - PIPA TRM A5.wav",
     "PIPA TREM - PIPA TRM B3.wav",
     "PIPA TREM - PIPA TRM B4.wav",
