@@ -4,75 +4,75 @@
     "Bangzi11.wav"
   ],
   "daluo": [
-    "Chinese Percussion - Daluo1_m1.wav",
-    "Chinese Percussion - Daluo21.wav",
-    "Chinese Percussion - Daluo3_m1.wav"
-  ],
-  "xiaoluo": [
-    "Chinese Percussion - Xiaoluo1.wav",
-    "Chinese Percussion - xiaoluo2.wav"
-  ],
-  "xiaotanggu": [
-    "Chinese Percussion - Xiaotanggu.wav"
+    "Chinese%20Percussion%20-%20Daluo1_m1.wav",
+    "Chinese%20Percussion%20-%20Daluo21.wav",
+    "Chinese%20Percussion%20-%20Daluo3_m1.wav"
   ],
   "xiaoba": [
-    "Chinese Percussion - xiaoba21.wav",
-    "Chinese Percussion - xiaoba_m1.wav"
+    "Chinese%20Percussion%20-%20xiaoba21.wav",
+    "Chinese%20Percussion%20-%20xiaoba_m1.wav"
   ],
-  "bass": [
-    "DSK Music © 2008 - BANDIVB B4P.wav",
-    "DSK Music © 2008 - BANDIVB B5P.wav",
-    "DSK Music © 2008 - BANDIVB E6P.wav",
-    "DSK Music © 2008 - BANDIVBC#5P.wav",
-    "DSK Music © 2008 - BANDIVBG#5P.wav"
+  "xiaoluo": [
+    "Chinese%20Percussion%20-%20Xiaoluo1.wav",
+    "Chinese%20Percussion%20-%20xiaoluo2.wav"
+  ],
+  "xiaotanggu": [
+    "Chinese%20Percussion%20-%20Xiaotanggu.wav"
+  ],
+  "bandivb": [
+    "DSK%20Music%20%C2%A9%202008%20-%20BANDIVB%20B4P.wav",
+    "DSK%20Music%20%C2%A9%202008%20-%20BANDIVB%20B5P.wav",
+    "DSK%20Music%20%C2%A9%202008%20-%20BANDIVB%20E6P.wav",
+    "DSK%20Music%20%C2%A9%202008%20-%20BANDIVBC%235P.wav",
+    "DSK%20Music%20%C2%A9%202008%20-%20BANDIVBG%235P.wav"
   ],
   "erhu": [
-    "ERHU - ERHUVB A5MF.wav",
-    "ERHU - ERHUVB B4MF.wav",
-    "ERHU - ERHUVB C6MF.wav",
-    "ERHU - ERHUVB F4MF.wav",
-    "ERHU - ERHUVB F5MF.wav",
-    "ERHU - ERHUVB G4MF.wav"
+    "ERHU%20-%20ERHUVB%20A5MF.wav",
+    "ERHU%20-%20ERHUVB%20B4MF.wav",
+    "ERHU%20-%20ERHUVB%20C6MF.wav",
+    "ERHU%20-%20ERHUVB%20F4MF.wav",
+    "ERHU%20-%20ERHUVB%20F5MF.wav",
+    "ERHU%20-%20ERHUVB%20G4MF.wav"
   ],
   "guzhen": [
-    "GUZHEN - GUZHEN F5.wav",
-    "GUZHEN - GUZHEN A#3.wav",
-    "GUZHEN - GUZHEN C#5.wav",
-    "GUZHEN - GUZHEN D#4.wav",
-    "GUZHEN - GUZHEN G#4.wav"
+    "GUZHEN%20-%20GUZHEN%20%20F5.wav",
+    "GUZHEN%20-%20GUZHEN%20A%233.wav",
+    "GUZHEN%20-%20GUZHEN%20C%235.wav",
+    "GUZHEN%20-%20GUZHEN%20D%234.wav",
+    "GUZHEN%20-%20GUZHEN%20G%234.wav"
   ],
   "luan": [
-    "LUAN - LUAN A4 MP.wav",
-    "LUAN - LUAN C5 MP.wav",
-    "LUAN - LUAN D3 MP.wav",
-    "LUAN - LUAN D4 MP.wav",
-    "LUAN - LUAN E3 MP.wav",
-    "LUAN - LUAN F#4 MP.wav",
-    "LUAN - LUAN G3 MP.wav",
-    "LUAN - LUAN G5 MP.wav"
+    "LUAN%20-%20LUAN%20A4%20%20MP.wav",
+    "LUAN%20-%20LUAN%20C5%20%20MP.wav",
+    "LUAN%20-%20LUAN%20D3%20%20MP.wav",
+    "LUAN%20-%20LUAN%20D4%20%20MP.wav",
+    "LUAN%20-%20LUAN%20E3%20%20MP.wav",
+    "LUAN%20-%20LUAN%20F%234%20MP.wav",
+    "LUAN%20-%20LUAN%20G3%20%20MP.wav",
+    "LUAN%20-%20LUAN%20G5%20%20MP.wav"
   ],
   "pipa": [
-    "PIPA - PIPA A3 P.wav",
-    "PIPA - PIPA B4 P.wav",
-    "PIPA - PIPA B5 P.wav",
-    "PIPA - PIPA D6 P.wav",
-    "PIPA - PIPA E4 P.wav",
-    "PIPA - PIPA E5 P.wav",
-    "PIPA - PIPA G4 P.wav",
-    "PIPA - PIPA G5 P.wav",
-    "PIPA - PIPA G6 P.wav",
-    "PIPA - PIPA C#4 P.wav"
+    "PIPA%20-%20PIPA%20%20%20A3%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20B4%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20B5%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20D6%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20E4%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20E5%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20G4%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20G5%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20G6%20P.wav",
+    "PIPA%20-%20PIPA%20%20%20C%234%20P.wav"
   ],
-  "pipa_trem": [
-    "PIPA TREM - PIPA TRM A5.wav",
-    "PIPA TREM - PIPA TRM B3.wav",
-    "PIPA TREM - PIPA TRM B4.wav",
-    "PIPA TREM - PIPA TRM B5.wav",
-    "PIPA TREM - PIPA TRM D5.wav",
-    "PIPA TREM - PIPA TRM E4.wav",
-    "PIPA TREM - PIPA TRM E5.wav",
-    "PIPA TREM - PIPA TRM E6.wav",
-    "PIPA TREM - PIPA TRM G4.wav",
-    "PIPA TREM - PIPA TRM G6.wav"
+  "pipa_trm": [
+    "PIPA%20TREM%20-%20PIPA%20TRM%20A5.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20B3.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20B4.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20B5.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20D5.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20E4.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20E5.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20E6.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20G4.wav",
+    "PIPA%20TREM%20-%20PIPA%20TRM%20G6.wav"
   ]
 }
