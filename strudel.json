@@ -1,1 +1,4 @@
-{"_base":"https://raw.githubusercontent.com/Naaeeen/LENS/main/","bangzi":"Asian/Bangzi11.wav"}
+{
+  "_base": "https://raw.githubusercontent.com/Naaeeen/LENS/main/Asian/",
+  "bangzi11":  "Bangzi11.wav"
+}
