@@ -1,7 +1,78 @@
 {
   "_base": "https://raw.githubusercontent.com/Naaeeen/LENS/main/Asian/",
-  "bangzi11":  "Bangzi11.wav",
-  "daluo1":    "Chinese Percussion - Daluo1_m1.wav",
-  "erhu_f4":   "ERHU - ERHUVB F4MF.wav",
-  "pipa_g4":   "PIPA - PIPA G4 P.wav"
+  "bangzi": [
+    "Bangzi11.wav"
+  ],
+  "daluo": [
+    "Daluo1_m1.wav",
+    "Daluo21.wav",
+    "Daluo3_m1.wav"
+  ],
+  "xiaoluo": [
+    "Xiaoluo1.wav",
+    "Xiaoluo2.wav"
+  ],
+  "xiaotanggu": [
+    "Xiaotanggu.wav"
+  ],
+  "xiaoba": [
+    "xiaoba21.wav",
+    "xiaoba_m1.wav"
+  ],
+  "bandivb": [
+    "DSK Music © 2008 - BANDIVB B4P.wav",
+    "DSK Music © 2008 - BANDIVB B5P.wav",
+    "DSK Music © 2008 - BANDIVB E6P.wav",
+    "DSK Music © 2008 - BANDIVBC#5P.wav",
+    "DSK Music © 2008 - BANDIVBG#5P.wav"
+  ],
+  "erhu": [
+    "ERHU - ERHUVB A5MF.wav",
+    "ERHU - ERHUVB B4MF.wav",
+    "ERHU - ERHUVB C6MF.wav",
+    "ERHU - ERHUVB F4MF.wav",
+    "ERHU - ERHUVB F5MF.wav",
+    "ERHU - ERHUVB G4MF.wav"
+  ],
+  "guzhen": [
+    "GUZHEN - GUZHEN A#3.wav",
+    "GUZHEN - GUZHEN C#5.wav",
+    "GUZHEN - GUZHEN D#4.wav",
+    "GUZHEN - GUZHEN F5.wav",
+    "GUZHEN - GUZHEN G#4.wav"
+  ],
+  "luan": [
+    "LUAN - LUAN A4 MP.wav",
+    "LUAN - LUAN C5 MP.wav",
+    "LUAN - LUAN D3 MP.wav",
+    "LUAN - LUAN D4 MP.wav",
+    "LUAN - LUAN E3 MP.wav",
+    "LUAN - LUAN F#4 MP.wav",
+    "LUAN - LUAN G3 MP.wav",
+    "LUAN - LUAN G5 MP.wav"
+  ],
+  "pipa": [
+    "PIPA - PIPA A3 P.wav",
+    "PIPA - PIPA B4 P.wav",
+    "PIPA - PIPA B5 P.wav",
+    "PIPA - PIPA C#4 P.wav",
+    "PIPA - PIPA D6 P.wav",
+    "PIPA - PIPA E4 P.wav",
+    "PIPA - PIPA E5 P.wav",
+    "PIPA - PIPA G4 P.wav",
+    "PIPA - PIPA G5 P.wav",
+    "PIPA - PIPA G6 P.wav"
+  ],
+  "pipatrem": [
+    "PIPA TREM - PIPA TRM A5.wav",
+    "PIPA TREM - PIPA TRM B3.wav",
+    "PIPA TREM - PIPA TRM B4.wav",
+    "PIPA TREM - PIPA TRM B5.wav",
+    "PIPA TREM - PIPA TRM D5.wav",
+    "PIPA TREM - PIPA TRM E4.wav",
+    "PIPA TREM - PIPA TRM E5.wav",
+    "PIPA TREM - PIPA TRM E6.wav",
+    "PIPA TREM - PIPA TRM G4.wav",
+    "PIPA TREM - PIPA TRM G6.wav"
+  ]
 }
