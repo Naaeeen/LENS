@@ -1,7 +1,8 @@
 {
-  "_base": "https://raw.githubusercontent.com/Naaeeen/LENS/main/Asian/",
-  "bangzi11":  "Bangzi11.wav",
-  "daluo1":    "Chinese Percussion - Daluo1_m1.wav",
-  "erhu_f4":   "ERHU - ERHUVB F4MF.wav",
-  "pipa_g4":   "PIPA - PIPA G4 P.wav"
+  "_base": "https://raw.githubusercontent.com/Naaeeen/LENS/main/",
+  "daluo": [
+    "Asian/Chinese_Percussion-Daluo1_m1.wav",
+    "Asian/Chinese_Percussion-Daluo21.wav",
+    "Asian/Chinese_Percussion-Daluo3_m1.wav"
+  ]
 }
